@@ -14,7 +14,11 @@ Do NOT overuse this as your Schools administration could easily block my whole d
 
 Pure Kahoot cheats, note that these wont answer for you. The specified cheats will give you all answers and will allow to massively flood the kahoot, when a new Exploit is found also to crash it.
 
-[pxtrez original Website]("pxtrez.com").
+
+<a href="kahoot.club">Flooder</a>
+<a href="pxtrez.com">pxtrez Original</a>
+<a href="6288cc3a34ec3d7b9f1599ce--stoic-chandrasekhar-ad0be0.netlify.app/">pxtrez DsSoft</a>
+
 [pxtrez fallback Website]("https://6288cc3a34ec3d7b9f1599ce--stoic-chandrasekhar-ad0be0.netlify.app/"").
 [pxtrez hosted by DsSoft]("dssoft-byte.github.io/Cheatz").
 [Flooder]("kahoot.club").
