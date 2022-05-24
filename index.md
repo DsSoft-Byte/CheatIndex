@@ -4,7 +4,7 @@ layout: default
 
 This Website contains all the Cheats you need to succeed.
 
-[Back to DsSoft]("dssoft.uk.to").
+<a href="http://dssoft.uk.to">Back to DsSoft</a>
 
 These are all the Cheats that i know of.
 
@@ -14,10 +14,9 @@ Do NOT overuse this as your Schools administration could easily block my whole d
 
 Pure Kahoot cheats, note that these wont answer for you. The specified cheats will give you all answers and will allow to massively flood the kahoot, when a new Exploit is found also to crash it.
 
-
-[pxtrez fallback Website]("https://6288cc3a34ec3d7b9f1599ce--stoic-chandrasekhar-ad0be0.netlify.app/"").
-[pxtrez hosted by DsSoft]("http://dssoft-byte.github.io/Cheatz")
-<a href="http:dssoft.uk.to">test href</a>
+<a href="https://6288cc3a34ec3d7b9f1599ce--stoic-chandrasekhar-ad0be0.netlify.app/">pxtrez fallback website</a>
+<a href="https://pxtrez.com">pxtrez</a>
+<a href="http://dssoft-byte.github.io/Cheatz">pxtrez hosted by me</a>
 
 
 # Quizlet Cheats
