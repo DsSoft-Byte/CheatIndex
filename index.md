@@ -16,8 +16,8 @@ Pure Kahoot cheats, note that these wont answer for you. The specified cheats wi
 
 
 [pxtrez fallback Website]("https://6288cc3a34ec3d7b9f1599ce--stoic-chandrasekhar-ad0be0.netlify.app/"").
-[pxtrez hosted by DsSoft]("http://dssoft-byte.github.io/Cheatz").
-[Flooder]("https://kahoot.club").
+[pxtrez hosted by DsSoft]("http://dssoft-byte.github.io/Cheatz")
+<a href="http:dssoft.uk.to">test href</a>
 
 
 # Quizlet Cheats
